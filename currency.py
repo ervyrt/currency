@@ -1,5 +1,6 @@
 import requests
 
+
 def exchange():
     print("Welcome to exchance program...\nYou can exchange money on latest currency or historical currency.")
     date=input("if you want to use latest, currerncy write 'today'\nif you a specific date, enter date as YYYY-MM-DD:")
